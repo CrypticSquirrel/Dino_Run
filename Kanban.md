@@ -1,4 +1,4 @@
-## Kandan Board
+## Kandbn Board
 
  ![#008000](https://placehold.it/15/008000/000000?text=+) `Edward Breja`
  
