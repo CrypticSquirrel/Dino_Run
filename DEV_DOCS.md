@@ -1,5 +1,10 @@
 ## Developer Documentation
 
+### Git
+
+- I found the best way to work with on a project with two people is with a 3 branch system. A master branch and two working branches (one for each of us)
+- I would create your own branch from master. See below on where to do this. Just enter text and press enter:
+<img src="https://user-images.githubusercontent.com/26554691/70039098-550e7300-1587-11ea-964a-53a16a26729a.png" width="250" >
 
 
 ### (My) Development Environment 
@@ -17,7 +22,6 @@ brew cask install visual-studio-code
 
 **github desktop**
 - Although vscode has built in source control and git can be run on the command line, I prefer [github's desktop client](https://desktop.github.com/). because I can view all my projects in one place.
-
 
 
 **brew**
