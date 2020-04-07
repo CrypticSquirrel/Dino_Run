@@ -11,6 +11,10 @@
 brew cask install visual-studio-code
 ```
 
+**useful vscode extensions**
+- For this project I would recommend `live server` and `p5js Snippets`
+- Download extensions by clicking the fourth tab down on the left (it looks like building blocks)
+
 **github desktop**
 - Although vscode has built in source control and git can be run on the command line, I prefer [github's desktop client](https://desktop.github.com/). because I can view all my projects in one place.
 
