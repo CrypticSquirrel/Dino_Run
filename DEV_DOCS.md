@@ -2,9 +2,27 @@
 
 ### Git
 
-- I found the best way to work with on a project with two people is with a 3 branch system. A master branch and two working branches (one for each of us)
+- I found the best way to work with on a project with two people is with a 3 branch system. A master branch and two working branches (one for each of us). This way we will never *disrupt* each others work. 
 - I would create your own branch from master. See below on where to do this. Just enter text and press enter:
 <img src="https://user-images.githubusercontent.com/26554691/70039098-550e7300-1587-11ea-964a-53a16a26729a.png" width="250" >
+
+- Github Desktop Quick Explanation
+    - You can change branches on local client (useful if you wanna check out what I'm working on). You should never be working in the Master branch. 
+    
+<img src="https://github.com/CrypticSquirrel/pics/blob/master/Screen%20Shot%202020-04-06%20at%209.53.17%20PM.png?raw=true" width="250">
+    
+    - After I make change(s) I commit it with some message. 
+    
+<img src="https://github.com/CrypticSquirrel/pics/blob/master/Screen%20Shot%202020-04-06%20at%209.53.10%20PM.png?raw=true" width="250"><img src="https://raw.githubusercontent.com/CrypticSquirrel/pics/master/Screen%20Shot%202020-04-06%20at%209.53.00%20PM.png?token=AGKTCQ775KFQXB5TWDKV2CS6SUMMA" width="250">
+    
+    - Push changes to remote (github.com)
+
+<img src="https://github.com/CrypticSquirrel/pics/blob/master/Screen%20Shot%202020-04-06%20at%209.53.24%20PM.png?raw=true" width="250">
+
+- Upload changes to the Master branch with a pull request. Click the button, enter a title, create pull request. We won't do code reviews (unless you want) so you can merge it right away (scroll down and find and click merge). 
+
+<img src="https://user-images.githubusercontent.com/26554691/70040431-8f790f80-1589-11ea-8a0a-56bf5dd82335.png" width="250"> <img src="https://github.com/CrypticSquirrel/pics/blob/master/Screen%20Shot%202020-04-06%20at%2010.11.49%20PM.png?raw=true" width="400">
+
 
 
 ### (My) Development Environment 
