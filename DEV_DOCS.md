@@ -38,9 +38,11 @@ brew cask install visual-studio-code
 - For this project I would recommend `live server` and `p5js Snippets`
 - Download extensions by clicking the fourth tab down on the left (it looks like building blocks)
 
+**live server**
+- Live server lets you view the web page you are working on in real time. As soon as you make a change, it will update in the browser. After you've downloaded it you can access it by pressing "go live" or right clicking and selecting "open with live server" when you are on an HTML page. This will only work if you do it when you have a .html page open and active.
+
 **github desktop**
 - Although vscode has built in source control and git can be run on the command line, I prefer [github's desktop client](https://desktop.github.com/). because I can view all my projects in one place.
-
 
 **brew**
 - If you are on a mac, [brew](https://brew.sh/) is the best thing ever. Consider getting it. 
