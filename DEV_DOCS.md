@@ -23,8 +23,6 @@
 
 <img src="https://user-images.githubusercontent.com/26554691/70040431-8f790f80-1589-11ea-8a0a-56bf5dd82335.png" width="250"> <img src="https://github.com/CrypticSquirrel/pics/blob/master/Screen%20Shot%202020-04-06%20at%2010.11.49%20PM.png?raw=true" width="400">
 
-
-
 ### (My) Development Environment 
 
 **vscode**
@@ -33,6 +31,8 @@
 ```
 brew cask install visual-studio-code
 ```
+
+- If you use vscode I would highly recommend [this useful app](https://github.com/sozercan/OpenInCode). Lets you actually open projects (instead of just viewing files). Install w/ brew: `brew cask install open-in-code`
 
 **useful vscode extensions**
 - For this project I would recommend `live server` and `p5js Snippets`
