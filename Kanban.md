@@ -7,7 +7,7 @@
  To-Do | In-Progress | Done 
  --- | --- | --- 
 |![#1589F0](https://placehold.it/15/1589F0/000000?text=+) Create jumping rectangle/obstacles ||![#008000](https://placehold.it/15/008000/000000?text=+) Set up project and initial commit 
-|![#008000](https://placehold.it/15/008000/000000?text=+) Work on menu||![#008000](https://placehold.it/15/008000/000000?text=+) Create environment setup documentation
+|![#008000](https://placehold.it/15/008000/000000?text=+) Work on menu/game over screen||![#008000](https://placehold.it/15/008000/000000?text=+) Create environment setup documentation
 |||
 
 ## Resources
